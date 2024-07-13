@@ -15,6 +15,4 @@ This algorithm sets the correct values for the widths and lengths of transistors
 ##  Output
 After the algorithm completes, a graph is generated showing the results of each generation. This graph provides insight into the progress and effectiveness of the optimization process.
 
-# Verry important: You must have instalitation PySpice!!!
-
 
